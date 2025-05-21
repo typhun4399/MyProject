@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 from sklearn.calibration import LabelEncoder
 from sklearn.preprocessing import StandardScaler
 
-df = pd.read_csv("/Users/pacharaporn/Downloads/student_depression_dataset.csv")
+df = pd.read_csv(r"C:\Users\phunk\Desktop\MyProject\machine learning\Student Depress\student_depression_dataset.csv")
 print(df['Depression'].unique())
 
 le = LabelEncoder()

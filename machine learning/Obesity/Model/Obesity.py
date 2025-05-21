@@ -20,6 +20,7 @@ y = le.fit_transform(df["NObeyesdad"])
 
 num_col = ["Age","Height","Weight","FCVC","NCP","CH2O","FAF","TUE"]
 cat_col = ["Gender","family_history_with_overweight","FAVC","CAEC","SMOKE","SCC","CALC","MTRANS"]
+
 num_tranform = Pipeline(steps=[
     ("impute",KNNImputer(n_neighbors=5)),
     ("scale",StandardScaler())
