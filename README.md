@@ -17,6 +17,7 @@ The focus is on building foundational skills in data cleaning, manipulation, vis
 ## 🛠 Tools Used
 
 - Excel
+- Power BI
 - Python  
 - Pandas  
 - Matplotlib  
