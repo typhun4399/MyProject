@@ -2,3 +2,5 @@ Gender,Age,Height,Weight,family_history_with_overweight,FAVC,FCVC,NCP,CAEC,SMOKE
 Male,22,1.72,68,yes,yes,2.5,3,Sometimes,no,2,no,1.5,1,Sometimes,Public_Transportation
 Female,28,1.65,75,no,yes,3,4,Frequently,no,2.5,no,0.5,0,Frequently,Walking
 Male,35,1.8,85,yes,no,2,3,Sometimes,no,3,yes,2,2,Always,Automobile
+Female,23,1.6,63,yes,yes,4,2,Sometimes,yes,1.5,no,1,2,Sometimes,Public_Transportation
+Male,22,1.75,90,no,yes,0,3,Sometimes,yes,1.5,yes,1,2,Sometimes,Public_Transportation
